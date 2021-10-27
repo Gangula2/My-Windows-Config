@@ -15,8 +15,15 @@ with open(filepath, "r", encoding="utf-8") as file:
     data = file.readlines()
 
 editedData = []
+ignoredPackages = []
 for line in data:
-    editedData.append(re.sub(pattern, r"\1\3", line))
+    if 'id="KB' in line:
+        # packages with id="KB..." are windows security installation. May not be needed
+        ignoredPackages.append(line)
+    else:
+        editedData.append(re.sub(pattern, r"\1\3", line))
 
 with open(editedFilePath, mode="wt", encoding="utf-8") as f:
     f.write("".join(editedData))
+
+print("Ignored Packages:\n" + "".join(ignoredPackages))
