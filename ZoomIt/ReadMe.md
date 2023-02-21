@@ -1,0 +1,36 @@
+- My Shortcuts 
+    - Zoom
+        - <kbd>CTRL + F2</kbd> - Zoom 
+        - you can use <kbd>ESC</kbd> to exit from Zoom
+        - similar to Live Zoom, but you cannot interact with apps
+    - Live Zoom
+        - <kbd>SHIFT + F1</kbd> - Toggle Live Zoom 
+        - press <kbd>SHIFT + F1</kbd> again to exit Live Zoom 
+        - use <kbd>CTRL + UP</kbd> and <kbd>CTRL + DOWN</kbd> to zoom in or out 
+    - Draw
+        - <kbd>SHIFT + F2</kbd> - Toggle Draw 
+        - <kbd>t</kbd> - to start typing text on screen
+        - you can use </kbd>ESC</kbd> to exit from Draw
+        - hold down <kbd>SHIFT</kbd> to draw a straight line
+        - hold down <kbd>CTRL</kbd> to draw a rectangle
+        - hold down <kbd>TAB</kbd> to draw a ellipse
+        - hold down <kbd>SHIFT + CTRL</kbd>  to draw a arrow
+        - <kbd>CTRL + SCROLL</kbd> - change pen width
+        - Change Pen Color
+            - <kbd>r</kbd> - Red
+            - <kbd>g</kbd> - Green
+            - <kbd>b</kbd> - Blue
+            - <kbd>o</kbd> - Orange
+            - <kbd>y</kbd> - Yellow
+            - <kbd>p</kbd> - Pink
+        - <kbd>CTRL + Z</kbd> - to undo last entry
+        - <kbd>e</kbd> - to erase all annotations
+        - <kbd>w</kbd> - for Whiteboard screen
+        - <kbd>k</kbd> - for Blackboard screen
+    - Break
+        - <kbd>SHIFT + F3</kbd> - Enable Timer
+        - Set default timer to 2 minutes
+        - Increase or Decrease the time count using arrow keys 
+        - press <kbd>Esc</kbd> to exit out of break mode 
+    - Record Screen
+        - <kbd>CTRL + 5</kbd> - Default shortcut 

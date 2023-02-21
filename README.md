@@ -9,6 +9,6 @@ All My apps and settings to easily migrate to a new Windows PC
 - [ ] Add VSCode settings, extensions, keybindings
     - `%APPDATA%\Code\User\`
 - [ ] Add **X-Mouse-Button-Control** profiles
-- [ ] Add **Phrase Express** keywords
-- [ ] Save **ZoomIt** settings in ReadMe file
+- [x] Add **Phrase Express** keywords
+- [x] Save **ZoomIt** settings in ReadMe file
 - [ ] Add Obsidian folder with settings and customizations
